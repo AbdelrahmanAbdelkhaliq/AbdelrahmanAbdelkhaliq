@@ -58,15 +58,6 @@ When I'm not pushing commits, you'll find me mentoring the next generation of en
 </tr>
 </table>
 
-### 🔥 What I'm Currently Working On
-
-| Project | Status | Tech |
-|---|---|---|
-| 🚁 Autonomous Drone Navigation (V2) | `🟢 Active` | Python · OpenCV · MediaPipe |
-| 🧭 Path Planning Benchmarking | `🟡 Wrapping Up` | MATLAB · Simulink · A* · RRT* |
-| 📖 Seeking Summer 2026 AI/ML Internship | `🔍 Open` | — |
-
----
 
 <!-- ══════════════════════════════════════════════════════════════
      TECH STACK
@@ -117,75 +108,6 @@ When I'm not pushing commits, you'll find me mentoring the next generation of en
 
 </div>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════
-     NOTABLE PROJECTS
-     ══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Notable Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚶 Pedestrian Detection & Tracking
-**YOLOv8 · DeepSORT · OpenCV** &nbsp; `Jan – Apr 2026`
-
-Fine-tuned YOLOv8 + DeepSORT on a **3,200-image dataset** for real-time pedestrian tracking.
-Achieved **87.4% mAP@0.5** with stable identity tracking across complex video sequences.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗑️ Smart Bin Classifier (Edge AI)
-**TFLite · ESP32 · Sensor Fusion** &nbsp; `Sep – Nov 2025`
-
-Deployed a **4-class waste classifier** (plastic / glass / metal / other) directly on an ESP32 using TFLite. Self-collected training data from microphone, spectrometer & humidity sensors — **fully end-to-end**.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚁 Autonomous Drone Navigation
-**MATLAB · Python · OpenCV · MediaPipe** &nbsp; `Apr – May 2026`
-
-- **V1** — A\*, RRT & RRT\* path-planning in Simulink/Stateflow; benchmarked across 50 obstacle maps.
-- **V2** — Python CV stack with gesture control, body-following, jump detection & autonomous line-following.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Arabic Speech-to-Text Engine
-**Python · Google Speech API · NLP** &nbsp; `Jul – Aug 2025`
-
-Built an end-to-end Arabic ASR pipeline with a custom pre-processing layer, improving word-error rate by **~18%** over the baseline Google API on dialectal Arabic input.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════
-     ACHIEVEMENTS
-     ══════════════════════════════════════════════════════════════ -->
-
-## 🏆 Key Achievements
-
-<div align="center">
-
-| 🥇 Award | 🏛️ Organisation |
-|---|---|
-| 🌍 **IEEE Region 8 Representative** | IEEE Banha — Representing Egypt |
-| 🥈 **National Finalist — Top 15 of 580+** | 5th Egyptian Junior Researcher Competition, Nile University |
-| 🥈 **2nd Place, IoT Track** | IEEE Victories 2.0 |
-| 🥇 **1st Place Debugging Phase + 3rd Overall** | IEEE Helwan Modifier Competition |
-| 🏅 **Best MATLAB Simulation Award** | RoboMasters Competition |
-| 🌟 **YLF Finalist** | Youth Leadership Foundation |
-
-</div>
 
 ---
 
@@ -245,26 +167,6 @@ Built an end-to-end Arabic ASR pipeline with a custom pre-processing layer, impr
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdelrahmanAbdelkhaliq/AbdelrahmanAbdelkhaliq/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbdelrahmanAbdelkhaliq/AbdelrahmanAbdelkhaliq/output/github-contribution-grid-snake-dark.svg" width="95%"/>
   </picture>
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════
-     COMMUNITY & TEACHING
-     ══════════════════════════════════════════════════════════════ -->
-
-## 🌐 Community & Teaching
-
-<div align="center">
-
-| Role | Organisation |
-|---|---|
-| 🤖 Advanced Robotics Instructor | TECH WAVE |
-| 💻 Computer Science Director | Mansoura Robotics Club |
-| ⚡ Electronics Director | Breakin Point Club |
-| 🎓 Organising Volunteer | 2nd Engineering Forum, Mansoura University |
-| 🏥 Medical Volunteer | Resala Charity Organisation |
-
 </div>
 
 ---
